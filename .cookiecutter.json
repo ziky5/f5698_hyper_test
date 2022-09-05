@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Petr Zikan",
+  "copyright_year": "2022",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "zikan.p@gmail.com",
+  "friendly_name": "F5698_Hyper_Test",
+  "github_user": "ziky5",
+  "license": "MIT",
+  "package_name": "f5698_hyper_test",
+  "project_name": "f5698_hyper_test",
+  "version": "0.0.0"
+}
